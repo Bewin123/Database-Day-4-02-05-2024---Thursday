@@ -1,0 +1,72 @@
+[
+  {
+    "user_id": "1",
+    "attendance": [
+      { "date": "2020-10-01", "present": true },
+      { "date": "2020-10-08", "present": false }
+    ]
+  },
+  {
+    "user_id": "2",
+    "attendance": [
+      { "date": "2020-10-01", "present": true },
+      { "date": "2020-10-08", "present": true }
+    ]
+  },
+  {
+    "user_id": "3",
+    "attendance": [
+      { "date": "2020-10-01", "present": false },
+      { "date": "2020-10-08", "present": true }
+    ]
+  },
+  {
+    "user_id": "4",
+    "attendance": [
+      { "date": "2020-10-01", "present": true },
+      { "date": "2020-10-08", "present": false }
+    ]
+  },
+  {
+    "user_id": "5",
+    "attendance": [
+      { "date": "2020-10-01", "present": false },
+      { "date": "2020-10-08", "present": true }
+    ]
+  },
+  {
+    "user_id": "6",
+    "attendance": [
+      { "date": "2020-10-01", "present": true },
+      { "date": "2020-10-08", "present": false }
+    ]
+  },
+  {
+    "user_id": "7",
+    "attendance": [
+      { "date": "2020-10-01", "present": false },
+      { "date": "2020-10-08", "present": true }
+    ]
+  },
+  {
+    "user_id": "8",
+    "attendance": [
+      { "date": "2020-10-01", "present": true },
+      { "date": "2020-10-08", "present": true }
+    ]
+  },
+  {
+    "user_id": "9",
+    "attendance": [
+      { "date": "2020-10-01", "present": true },
+      { "date": "2020-10-08", "present": true }
+    ]
+  },
+  {
+    "user_id": "10",
+    "attendance": [
+      { "date": "2020-10-01", "present": false },
+      { "date": "2020-10-08", "present": true }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "_id": "1",
+    "title": "Implement Bubble Sort",
+    "description": "Write a function to implement the bubble sort algorithm.",
+    "deadline": "2020-10-15",
+    "topic": "Sorting Algorithms"
+  },
+  {
+    "_id": "2",
+    "title": "Implement Depth-First Search",
+    "description": "Write a function to implement the depth-first search algorithm for graph traversal.",
+    "deadline": "2020-10-20",
+    "topic": "Graph Algorithms"
+  },
+  {
+    "_id": "3",
+    "title": "Implement Binary Search Tree",
+    "description": "Write a class to implement a binary search tree data structure with basic operations.",
+    "deadline": "2020-10-25",
+    "topic": "Data Structures"
+  },
+  {
+    "_id": "4",
+    "title": "Solve Knapsack Problem",
+    "description": "Write a function to solve the 0/1 knapsack problem using dynamic programming.",
+    "deadline": "2020-10-30",
+    "topic": "Dynamic Programming"
+  },
+  {
+    "_id": "5",
+    "title": "Implement Breadth-First Search",
+    "description": "Write a function to implement the breadth-first search algorithm for graph traversal.",
+    "deadline": "2020-11-05",
+    "topic": "Graph Algorithms"
+  }
+]

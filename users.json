@@ -1,0 +1,112 @@
+[
+  {
+    "_id": "1",
+    "name": "John Doe",
+    "email": "john@example.com",
+    "role": "student",
+    "problems_solved": 20,
+    "attendance": [
+      { "date": "2020-10-01", "present": true },
+      { "date": "2020-10-08", "present": false }
+    ]
+  },
+  {
+    "_id": "2",
+    "name": "Jane Smith",
+    "email": "jane@example.com",
+    "role": "student",
+    "problems_solved": 15,
+    "attendance": [
+      { "date": "2020-10-01", "present": true },
+      { "date": "2020-10-08", "present": true }
+    ]
+  },
+  {
+    "_id": "3",
+    "name": "Alice Johnson",
+    "email": "alice@example.com",
+    "role": "student",
+    "problems_solved": 25,
+    "attendance": [
+      { "date": "2020-10-01", "present": false },
+      { "date": "2020-10-08", "present": true }
+    ]
+  },
+  {
+    "_id": "4",
+    "name": "Bob Brown",
+    "email": "bob@example.com",
+    "role": "student",
+    "problems_solved": 18,
+    "attendance": [
+      { "date": "2020-10-01", "present": true },
+      { "date": "2020-10-08", "present": false }
+    ]
+  },
+  {
+    "_id": "5",
+    "name": "Emma Davis",
+    "email": "emma@example.com",
+    "role": "student",
+    "problems_solved": 22,
+    "attendance": [
+      { "date": "2020-10-01", "present": false },
+      { "date": "2020-10-08", "present": true }
+    ]
+  },
+  {
+    "_id": "6",
+    "name": "Michael Wilson",
+    "email": "michael@example.com",
+    "role": "student",
+    "problems_solved": 12,
+    "attendance": [
+      { "date": "2020-10-01", "present": true },
+      { "date": "2020-10-08", "present": false }
+    ]
+  },
+  {
+    "_id": "7",
+    "name": "Sophia Martinez",
+    "email": "sophia@example.com",
+    "role": "student",
+    "problems_solved": 17,
+    "attendance": [
+      { "date": "2020-10-01", "present": false },
+      { "date": "2020-10-08", "present": true }
+    ]
+  },
+  {
+    "_id": "8",
+    "name": "William Garcia",
+    "email": "william@example.com",
+    "role": "student",
+    "problems_solved": 30,
+    "attendance": [
+      { "date": "2020-10-01", "present": true },
+      { "date": "2020-10-08", "present": true }
+    ]
+  },
+  {
+    "_id": "9",
+    "name": "Olivia Lopez",
+    "email": "olivia@example.com",
+    "role": "student",
+    "problems_solved": 24,
+    "attendance": [
+      { "date": "2020-10-01", "present": true },
+      { "date": "2020-10-08", "present": true }
+    ]
+  },
+  {
+    "_id": "10",
+    "name": "James Lee",
+    "email": "james@example.com",
+    "role": "student",
+    "problems_solved": 19,
+    "attendance": [
+      { "date": "2020-10-01", "present": false },
+      { "date": "2020-10-08", "present": true }
+    ]
+  }
+]

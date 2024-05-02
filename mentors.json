@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "1",
+    "name": "Mentor John",
+    "mentees_count": 20,
+    "specialization": "Algorithms"
+  },
+  {
+    "_id": "2",
+    "name": "Mentor Jane",
+    "mentees_count": 15,
+    "specialization": "Data Structures"
+  },
+  {
+    "_id": "3",
+    "name": "Mentor Alice",
+    "mentees_count": 25,
+    "specialization": "Dynamic Programming"
+  },
+  {
+    "_id": "4",
+    "name": "Mentor Bob",
+    "mentees_count": 18,
+    "specialization": "Graph Algorithms"
+  },
+  {
+    "_id": "5",
+    "name": "Mentor Emma",
+    "mentees_count": 22,
+    "specialization": "Sorting Algorithms"
+  }
+]

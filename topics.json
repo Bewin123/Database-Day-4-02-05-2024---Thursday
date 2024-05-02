@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "1",
+    "title": "Introduction to Algorithms",
+    "description": "Basic concepts of algorithms and their importance in computer science.",
+    "created_at": "2020-09-15"
+  },
+  {
+    "_id": "2",
+    "title": "Data Structures",
+    "description": "Study of different data structures like arrays, linked lists, trees, and graphs.",
+    "created_at": "2020-09-20"
+  },
+  {
+    "_id": "3",
+    "title": "Sorting Algorithms",
+    "description": "Various sorting algorithms including bubble sort, merge sort, and quicksort.",
+    "created_at": "2020-09-25"
+  },
+  {
+    "_id": "4",
+    "title": "Dynamic Programming",
+    "description": "Technique for solving complex problems by breaking them down into simpler subproblems.",
+    "created_at": "2020-10-01"
+  },
+  {
+    "_id": "5",
+    "title": "Graph Algorithms",
+    "description": "Algorithms to solve problems related to graphs such as traversal and shortest path.",
+    "created_at": "2020-10-05"
+  }
+]
